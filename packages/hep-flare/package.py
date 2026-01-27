@@ -24,6 +24,11 @@ class HepFlare(PythonPackage):
     version("master", branch="main")
 
     version(
+        "0.2.2",
+        sha256="f0372f52cadd102ab4ea8fc82bbb1a76b26b5a546e5ccfddb2deee36f759fcd8",
+    )
+
+    version(
         "0.2.1",
         sha256="8beb14c2045774fc06e1773dd4cd73842cd515f3158651744bba0920ea0361e3",
     )
